@@ -5,5 +5,7 @@
  O design do site não é de minha autoria. No entanto, não copiei o código do professor durante as aulas.
 
  Tecnologias utilizadas:
+ 
  -> HTML5
+ 
  -> CSS3
