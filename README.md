@@ -5,5 +5,5 @@
  O design do site não é de minha autoria.
 
  Tecnologias utilizadas: <br>
- -> HTML5 <br>
- -> CSS3
+ + HTML5 <br>
+ + CSS3
